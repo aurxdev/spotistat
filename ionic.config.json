@@ -1,0 +1,7 @@
+{
+  "name": "spotilife",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
